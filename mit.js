@@ -1,5 +1,5 @@
 var mit = {
-    city: 'coimbatore',
+    city: 'tirupur',
     colors: ['pink', 'red'],
     mascot: "robot",
     founded: 1900,
